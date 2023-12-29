@@ -4,4 +4,5 @@ module dual_switch(
   output f
 );
   assign f = a ^ b;
-endmodule
+endmodule// outports wire
+
